@@ -2,7 +2,7 @@
 
 References:  
 Assets:  
-https://hajileee.itch.io/hajileees-fantasy-characters-pack-japan-set  
+https://hajileee.itch.io/hajileees-fantasy-characters-pack-japan-set = ninja.png  
 https://0x72.itch.io/dungeontileset-ii  
 https://bakudas.itch.io/generic-dungeon-pack  
 https://nyknck.itch.io/fx062  
