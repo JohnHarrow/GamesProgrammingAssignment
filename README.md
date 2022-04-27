@@ -3,9 +3,9 @@
 References:  
 Assets:  
 https://hajileee.itch.io/hajileees-fantasy-characters-pack-japan-set = ninja.png  
-https://0x72.itch.io/dungeontileset-ii = 0x72_DungeonTilesetII_v1.3.png, frames.png    
+https://0x72.itch.io/dungeontileset-ii = 0x72_DungeonTilesetII_v1.3.png, Frames Folder    
 https://bakudas.itch.io/generic-dungeon-pack = Assets.png  
-https://nyknck.itch.io/fx062  
+https://nyknck.itch.io/fx062 Smoke Folder  
 https://brullov.itch.io/oak-woods  
 Tutorials:  
 https://www.youtube.com/watch?v=xFEKIWpd0sU&ab_channel=EliCuaycong  
