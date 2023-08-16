@@ -1,5 +1,7 @@
 # GamesProgrammingAssignment
 
+Video: https://www.youtube.com/watch?v=3tCWolCbtzU&ab_channel=John
+
 References:  
 Assets:  
 https://hajileee.itch.io/hajileees-fantasy-characters-pack-japan-set = ninja.png  
